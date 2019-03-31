@@ -1,1 +1,0 @@
-Trainingsmodus an, allerdings sowohl in reward update als auch in end of episode jeweils direkt return None, außer dass bei end of episode der score gespeichert wird.
